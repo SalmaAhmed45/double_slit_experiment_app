@@ -1,7 +1,7 @@
 # double_slit_experiment_app
 this application about double slit experiment created with matlab 
 
-# this content:
+# the content:
 the application includes 7 tabs that been explained in this video:
 https://drive.google.com/drive/folders/1pHaBbl2JAObUn8bX0V2nnv5cGHVgMAsd
 
